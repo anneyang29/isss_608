@@ -1,0 +1,23 @@
+---
+title: "Hands-On Exercise 01"
+author: "Chun-Han"
+date: "January 10, 2026"
+date-modified: "last-modified"
+execute: 
+  eval: true
+  echo: true
+  warning: false
+  freeze: true
+---
+
+# Overview
+
+## Getting Started
+
+```{r}
+pacman::p_load(tidyverse)
+```
+
+# The Data
+
+# First Visualization
