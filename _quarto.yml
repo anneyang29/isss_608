@@ -8,7 +8,7 @@ website:
       - text: "Hands-On Exercise"
         menu: 
           - text: "Hands-On Exercise 1"
-            href: "HE01.html"
+            href: "Hands-On_Exercise/Hands-On_Exercise01/HE01.html"
       - text: "In-Class Exercise"
         menu: 
           - text: "In-Class Exercise 1"
